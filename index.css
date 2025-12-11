@@ -12,9 +12,6 @@ body {
         opacity:1;
     }
 }
-.center {
-    text-align: center;
-}
 .active {
     color: grey;
 
