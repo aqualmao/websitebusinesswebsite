@@ -39,6 +39,8 @@ body {
     float: none;
     margin: 20px auto;
     display: block;
+    border:2px white;
+    border-style:solid;
 }
 
 .sec2 {
@@ -118,6 +120,8 @@ body {
     height:100%;
     object-fit: cover;
     justify-content:center;
+    border:2px white;
+    border-style:solid;
 }
 
 .sec3text {
