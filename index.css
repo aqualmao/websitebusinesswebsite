@@ -121,6 +121,7 @@ body {
     font-size: 16px;
     line-height: 1.4;
     text-align: center;
+    white-space: pre-line;
     opacity: 0;
     visibility: hidden;
     pointer-events: none;
